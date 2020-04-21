@@ -14,7 +14,7 @@ CK+ dataset https://www.pitt.edu/~emotion/ck-spread.html
 6. Result of Emotion Recognition Model.docx contains few test results of my trained model
 
 # Result
-Validation Accuracy on FER2013:68%
+Validation Accuracy on FER2013: 68%
 
-Validation Accuracy on CK+dataset:97%
+Validation Accuracy on CK+dataset: 97%
 
