@@ -12,3 +12,8 @@ CK+ dataset https://www.pitt.edu/~emotion/ck-spread.html
 4. Use Model.py to train the network
 5. Use Facial Expresion Detection.py file to test your trained model
 6. Result of Emotion Recognition Model.docx contains few test results of my trained model
+
+# Result
+Validation Accuracy on FER2013:68%
+Validation Accuracy on CK+dataset:97%
+
