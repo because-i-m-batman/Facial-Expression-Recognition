@@ -15,5 +15,6 @@ CK+ dataset https://www.pitt.edu/~emotion/ck-spread.html
 
 # Result
 Validation Accuracy on FER2013:68%
+
 Validation Accuracy on CK+dataset:97%
 
